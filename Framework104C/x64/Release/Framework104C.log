@@ -1,0 +1,12 @@
+﻿SoundMgr.obj : error LNK2001: FMOD_System_Create 외부 기호를 확인할 수 없습니다.
+SoundMgr.obj : error LNK2001: FMOD_System_Init 외부 기호를 확인할 수 없습니다.
+SoundMgr.obj : error LNK2001: FMOD_System_Update 외부 기호를 확인할 수 없습니다.
+SoundMgr.obj : error LNK2001: FMOD_System_PlaySound 외부 기호를 확인할 수 없습니다.
+SoundMgr.obj : error LNK2001: FMOD_Channel_SetMode 외부 기호를 확인할 수 없습니다.
+SoundMgr.obj : error LNK2001: FMOD_Channel_Stop 외부 기호를 확인할 수 없습니다.
+SoundMgr.obj : error LNK2001: FMOD_Channel_SetVolume 외부 기호를 확인할 수 없습니다.
+SoundMgr.obj : error LNK2001: FMOD_System_Release 외부 기호를 확인할 수 없습니다.
+SoundMgr.obj : error LNK2001: FMOD_System_Close 외부 기호를 확인할 수 없습니다.
+SoundMgr.obj : error LNK2001: FMOD_System_CreateSound 외부 기호를 확인할 수 없습니다.
+SoundMgr.obj : error LNK2001: FMOD_Sound_Release 외부 기호를 확인할 수 없습니다.
+C:\Users\jiwoo\Documents\portfolio\Binding Of Assac\x64\Release\Framework104C.exe : fatal error LNK1120: 11개의 확인할 수 없는 외부 참조입니다.
